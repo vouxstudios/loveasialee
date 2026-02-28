@@ -1,10 +1,5 @@
 User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-login.php
-Disallow: /cgi-bin/
-Disallow: /tmp/
-Disallow: /private/
-
 Allow: /
 
-Sitemap: https://www.loveasialee.com/sitemap.xml
+# Sitemap for search engines
+Sitemap: https://loveasialee.vouxstudios.com/sitemap.xml
